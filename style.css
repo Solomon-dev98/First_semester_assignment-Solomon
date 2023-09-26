@@ -336,9 +336,9 @@ span {
   border: 1px solid lightblue;
 }
 
-.free-details{
-  /* border: 2px solid green; */
-}
+/* .free-details{
+  border: 2px solid green;
+} */
 
 .professional{
   border: 2px solid black;
@@ -349,9 +349,9 @@ span {
   color: #fff;
 }
 
-.professional-details{
-  /* border: 2px solid red; */
-}
+/* .professional-details{
+  border: 2px solid red;
+} */
 
 .teams{
   /* border: 2px solid blue; */
@@ -361,9 +361,9 @@ span {
   border: 1px solid lightblue;
 }
 
-.teams-details{
-  /* border: 2px solid black; */
-}
+/* .teams-details{
+  border: 2px solid black;
+} */
 
 .details{
   /* border: 2px solid rebeccapurple; */
@@ -551,7 +551,7 @@ select{
 }
 
 .accordion .acc-con-1.active .content {
-  height: 50px;
+  height: 70px;
 }
 
 /* ------------------------------ */
@@ -626,3 +626,4 @@ select{
 .footer-con div h3 {
   font-size: 18px;
 }
+
